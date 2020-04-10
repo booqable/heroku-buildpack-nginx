@@ -6,6 +6,7 @@ types {
     text/cache-manifest                   manifest appcache;
     image/gif                             gif;
     image/jpeg                            jpeg jpg;
+    image/webp                            webp;
     application/x-javascript              js;
     application/atom+xml                  atom;
     application/rss+xml                   rss;
